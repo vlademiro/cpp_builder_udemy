@@ -1,0 +1,17 @@
+object DM: TDM
+  OldCreateOrder = False
+  Height = 363
+  Width = 438
+  object ConexaoDB: TFDConnection
+    Params.Strings = (
+      'DriverID=FB'
+      'User_Name=sysdba')
+    Left = 40
+    Top = 40
+  end
+  object FDPhysFBDriverLink1: TFDPhysFBDriverLink
+    VendorLib = 'C:\Program Files\Firebird\Firebird_3_0\fbclient.dll'
+    Left = 168
+    Top = 40
+  end
+end

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/03 22:16:28.000.938,=C:\Estudo\Livro_BorlandC++4\Project1PCH1.h</Transaction>
+    <Transaction>2021/03/03 22:16:29.000.045,=C:\Estudo\Livro_BorlandC++4\Unit1.cpp</Transaction>
+    <Transaction>2021/03/03 22:17:51.000.783,C:\Estudo\Curso_Udemy\12_Checkpoint\UnitPrincipal.dfm=C:\Estudo\Livro_BorlandC++4\Unit1.dfm</Transaction>
+    <Transaction>2021/03/03 22:17:51.000.783,C:\Estudo\Curso_Udemy\12_Checkpoint\UnitPrincipal.cpp=C:\Estudo\Livro_BorlandC++4\Unit1.cpp</Transaction>
+    <Transaction>2021/03/03 22:17:51.000.783,C:\Estudo\Curso_Udemy\12_Checkpoint\UnitPrincipal.h=C:\Estudo\Livro_BorlandC++4\Unit1.h</Transaction>
+    <Transaction>2021/03/03 22:20:24.000.892,C:\Estudo\Curso_Udemy\12_Checkpoint\CRUD.h=C:\Estudo\Livro_BorlandC++4\Project1PCH1.h</Transaction>
+    <Transaction>2021/03/03 22:21:03.000.274,C:\Estudo\Curso_Udemy\12_Checkpoint\ProjetoCRUD.cbproj=C:\Estudo\Livro_BorlandC++4\Project1.cbproj</Transaction>
+    <Transaction>2021/03/04 14:15:07.000.481,=C:\Estudo\Curso_Udemy\12_Checkpoint\Unit1.cpp</Transaction>
+    <Transaction>2021/03/04 14:16:20.000.641,C:\Estudo\Curso_Udemy\12_Checkpoint\UnitCliente.dfm=C:\Estudo\Curso_Udemy\12_Checkpoint\Unit1.dfm</Transaction>
+    <Transaction>2021/03/04 14:16:20.000.641,C:\Estudo\Curso_Udemy\12_Checkpoint\UnitCliente.cpp=C:\Estudo\Curso_Udemy\12_Checkpoint\Unit1.cpp</Transaction>
+    <Transaction>2021/03/04 14:16:20.000.641,C:\Estudo\Curso_Udemy\12_Checkpoint\UnitCliente.h=C:\Estudo\Curso_Udemy\12_Checkpoint\Unit1.h</Transaction>
+    <Transaction>2021/03/05 15:17:13.000.238,=C:\Estudo\Curso_Udemy\12_Checkpoint\Unit1.cpp</Transaction>
+    <Transaction>2021/03/05 15:18:59.000.000,C:\Estudo\Curso_Udemy\12_Checkpoint\Unit1.dfm=C:\Estudo\Curso_Udemy\12_Checkpoint\UnitDM.dfm</Transaction>
+    <Transaction>2021/03/05 15:18:59.000.000,C:\Estudo\Curso_Udemy\12_Checkpoint\Unit1.h=C:\Estudo\Curso_Udemy\12_Checkpoint\UnitDM.h</Transaction>
+    <Transaction>2021/03/05 15:18:59.000.000,C:\Estudo\Curso_Udemy\12_Checkpoint\Unit1.cpp=C:\Estudo\Curso_Udemy\12_Checkpoint\UnitDM.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

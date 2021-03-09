@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/21 23:17:55.000.329,=C:\Users\cliente\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/02/21 23:17:55.000.423,=C:\Users\cliente\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/02/21 23:18:39.000.204,C:\Estudo\Curso_Udemy\01_App\FormMain.h=C:\Users\cliente\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/02/21 23:18:39.000.204,C:\Estudo\Curso_Udemy\01_App\FormMain.cpp=C:\Users\cliente\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/02/21 23:18:39.000.204,C:\Estudo\Curso_Udemy\01_App\FormMain.dfm=C:\Users\cliente\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/02/21 23:19:16.000.469,C:\Estudo\Curso_Udemy\01_App\CursoUdemy.h=C:\Users\cliente\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/02/21 23:19:48.000.251,C:\Estudo\Curso_Udemy\01_App\Project_CursoUdemy.cbproj=C:\Users\cliente\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/02/21 23:30:06.000.890,=C:\Estudo\Curso_Udemy\02_AbreForm\Unit2.cpp</Transaction>
+    <Transaction>2021/02/21 23:30:58.000.453,C:\Estudo\Curso_Udemy\02_AbreForm\Unit2.h=C:\Estudo\Curso_Udemy\02_AbreForm\FormCliente.h</Transaction>
+    <Transaction>2021/02/21 23:30:58.000.453,C:\Estudo\Curso_Udemy\02_AbreForm\Unit2.cpp=C:\Estudo\Curso_Udemy\02_AbreForm\FormCliente.cpp</Transaction>
+    <Transaction>2021/02/21 23:30:58.000.453,C:\Estudo\Curso_Udemy\02_AbreForm\Unit2.dfm=C:\Estudo\Curso_Udemy\02_AbreForm\FormCliente.dfm</Transaction>
+    <Transaction>2021/02/26 21:17:08.000.812,=C:\Estudo\Curso_Udemy\05_Datamodules\Unit1.cpp</Transaction>
+    <Transaction>2021/02/26 21:21:22.000.293,C:\Estudo\Curso_Udemy\05_Datamodules\UnitDM.dfm=C:\Estudo\Curso_Udemy\05_Datamodules\Unit1.dfm</Transaction>
+    <Transaction>2021/02/26 21:21:22.000.293,C:\Estudo\Curso_Udemy\05_Datamodules\UnitDM.cpp=C:\Estudo\Curso_Udemy\05_Datamodules\Unit1.cpp</Transaction>
+    <Transaction>2021/02/26 21:21:22.000.293,C:\Estudo\Curso_Udemy\05_Datamodules\UnitDM.h=C:\Estudo\Curso_Udemy\05_Datamodules\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

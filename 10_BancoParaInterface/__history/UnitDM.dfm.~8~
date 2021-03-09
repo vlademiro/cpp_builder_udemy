@@ -1,0 +1,58 @@
+object DM: TDM
+  OldCreateOrder = False
+  Height = 363
+  Width = 438
+  object ConexaoDB: TFDConnection
+    Params.Strings = (
+      'User_Name=sysdba'
+      'Database=C:\Estudo\Curso_Udemy\BANCODADOS\PROJETOCURSO.FDB'
+      'Password=masterkey'
+      'Server=localhost'
+      'DriverID=FB')
+    Connected = True
+    Left = 40
+    Top = 40
+  end
+  object FDQueryExibir: TFDQuery
+    Connection = ConexaoDB
+    SQL.Strings = (
+      'select * from cliente')
+    Left = 40
+    Top = 104
+  end
+  object DSExibir: TDataSource
+    DataSet = FDQueryExibir
+    Left = 112
+    Top = 104
+  end
+  object FDQueryIncluir: TFDQuery
+    Connection = ConexaoDB
+    SQL.Strings = (
+      'insert into cliente (id, nome, endereco, cidade, estado )'
+      'values (gen_id(id_cliente,1),:nome,:endereco,:cidade,:estado)')
+    Left = 40
+    Top = 160
+    ParamData = <
+      item
+        Name = 'NOME'
+        ParamType = ptInput
+      end
+      item
+        Name = 'ENDERECO'
+        ParamType = ptInput
+      end
+      item
+        Name = 'CIDADE'
+        ParamType = ptInput
+      end
+      item
+        Name = 'ESTADO'
+        ParamType = ptInput
+      end>
+  end
+  object FDPhysFBDriverLink1: TFDPhysFBDriverLink
+    VendorLib = 'C:\Program Files (x86)\Firebird\Firebird_2_5\bin\fbclient.dll'
+    Left = 136
+    Top = 40
+  end
+end
