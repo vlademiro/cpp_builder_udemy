@@ -8,7 +8,7 @@ Esse é o projeto final do curso de C++ Builder do professor Emanuel Costa, disp
 
 Você precisará do C++ Builder Community Edition versão 10.3.3
 
-O C++ Builder Community é uma ferramenta gratuita para estudantes e para desenvolvedores autonomos (se você for utilizar para pequenos projetos comerciais).
+O C++ Builder Community é uma ferramenta gratuita para estudantes e para desenvolvedores autonomos (consulte o site da Embarcadero).
 
 A ferramenta pode ser baixada gratuitamente de [Embarcadero](https://www.embarcadero.com/br/products/cbuilder/starter)
 
