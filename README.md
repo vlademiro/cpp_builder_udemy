@@ -4,10 +4,6 @@ Esse é o projeto final do curso de C++ Builder do professor Emanuel Costa, disp
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **Implantação** para saber como implantar o projeto.
-
 ### 📋 Pré-requisitos
 
 Você precisará do C++ Builder Community Edition versão 10.3.3
