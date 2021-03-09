@@ -43,3 +43,7 @@ Você também pode obter informações interessantes acerca do C++ Builder no ca
 
 Os arquivos desse projeto são livres, eu mesmo, na condição de aluno do curso citado, os digitei e os testei, de modo que não existe nenhum material pirata aqui. Apenas peço que os créditos sejam dados, principalmente ao professor Emanuel Costa, que foi quem criou o curso citado.
 
+
+
+---
+O modelo desse README foi retirado de [Armstrong Lohãns](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) 😊
