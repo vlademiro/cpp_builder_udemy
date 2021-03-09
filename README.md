@@ -45,7 +45,7 @@ Você também pode obter informações interessantes acerca do C++ Builder no ca
 
 ## 📄 Licença
 
-Os arquivos desse projeto são livres, eu mesmo, na condição de aluno do curso citado, os digitei e os testei, de modo que não existe nenhum material pirata aqui. Apenas peço que os créditos sejam dados, principalmente ao meu professor Emanuel Costa, que foi quem criou o curso citado. 
+Os arquivos desse projeto são livres, eu mesmo, na condição de aluno do curso citado, os digitei e os testei, de modo que não existe nenhum material pirata aqui. Apenas peço que os créditos sejam dados, principalmente ao professor Emanuel Costa, que foi quem criou o curso citado. 
 
 Eu posso ser contactado em vlad@altersoft.net
 
