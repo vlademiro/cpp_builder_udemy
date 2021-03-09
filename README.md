@@ -12,6 +12,8 @@ O C++ Builder Community é uma ferramenta gratuita para estudantes e para desenv
 
 A ferramenta pode ser baixada gratuitamente de [Embarcadero](https://www.embarcadero.com/br/products/cbuilder/starter)
 
+Você também vai precisar do Firebird 2.5 (32 bits) instalado.  
+
 
 ### 🔧 O projeto
 
@@ -21,14 +23,16 @@ Trata-se do projeto final do curso de C++ Builder. Esse projeto é um CRUD simpl
 1. O CRUD consiste em um GRID e um formulário contendo os dados de cada registro
 1. O projeto foi desenvolvido passo-à-passo, e cada passo está descrito em uma pasta. Por exemplo: a pasta "01_App" contém o projeto na sua versão inicial, apenas com a janela principal sem o CRUD. A pasta "02_AbreForm" contém a versão anterior mais as rotinas de aberturas de formulário, e assim sucessivamente. Ou seja, o projeto pode ser estudado em todos os passos. 
 
+Importante : Crie a seguinte pasta e coloque os arquivos dentro dela : C:\Estudo\Curso_Udemy, o projeto usa esse caminho para acessar o banco de dados que está em C:\Estudo\Curso_Udemy\BANCODADOS
 
 ## Os arquivos
 
 Os arquivos desse repositório estão descritos abaixo :
 
 1. README.md : Esse arquivo
-1. Projeto.pdf : O passo a passo
+1. Projeto.pdf : O passo a passo.
 1. Pastas 01 a 12 : São as pastas do projeto no tempo. 
+1. BANCODADOS : Pasta que contém o banco de dados usado pelo projeto.
 
 O ideal é que você tente reproduzir os passos contidos no Projeto.PDF e, caso tenha alguma dúvida, confira com o conteúdo da pasta correspondente. A pasta "11_Alterar_Cancelar_Excluir" é a pasta que contém todas as anteriores e a pasta "12_CheckPoint" foi o projeto desenvolvido novamente do zero. Então, essas duas pastas
 são praticamente iguais. A pasta "12_CheckPoint_Erro" foi um erro que foi documentado.
@@ -41,7 +45,7 @@ Você também pode obter informações interessantes acerca do C++ Builder no ca
 
 ## 📄 Licença
 
-Os arquivos desse projeto são livres, eu mesmo, na condição de aluno do curso citado, os digitei e os testei, de modo que não existe nenhum material pirata aqui. Apenas peço que os créditos sejam dados, principalmente ao professor Emanuel Costa, que foi quem criou o curso citado.
+Os arquivos desse projeto são livres, eu mesmo, na condição de aluno do curso citado, os digitei e os testei, de modo que não existe nenhum material pirata aqui. Apenas peço que os créditos sejam dados, principalmente ao professor Emanuel Costa, que foi quem criou o curso citado. Meu nome é Vlademiro Landim Junior e posso ser contactado em vlad@altersoft.net. 
 
 
 
