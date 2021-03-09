@@ -1,6 +1,6 @@
 # CPP Builder - Udemy
 
-Esse é o projeto final do curso de C++ Builder da Udemy.
+Esse é o projeto final do curso de C++ Builder do professor Emanuel Costa, disponível na [Udemy](https://www.udemy.com/course/c-builder-e-firebird/).
 
 ## 🚀 Começando
 
