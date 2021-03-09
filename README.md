@@ -41,15 +41,5 @@ Você também pode obter informações interessantes acerca do C++ Builder no ca
 
 ## 📄 Licença
 
-Os arquivos desse projeto são livres, eu mesmo, na condição de aluno do curso citado, os digitei e os testei, de modo que não existe nenhum material pirata aqui. Apenas peço que os créditos sejam dados, principalmente ao professor Emanuel Costa, que foi quem criou o curso citado e que está em ().
+Os arquivos desse projeto são livres, eu mesmo, na condição de aluno do curso citado, os digitei e os testei, de modo que não existe nenhum material pirata aqui. Apenas peço que os créditos sejam dados, principalmente ao professor Emanuel Costa, que foi quem criou o curso citado.
 
-## 🎁 Concluindo
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
-
-
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
